@@ -1,0 +1,6 @@
+framework module Pods_FastLaneProject {
+  umbrella header "Pods-FastLaneProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
